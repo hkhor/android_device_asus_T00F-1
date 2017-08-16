@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "Zenfone-Dev/android_device_asus_ctp-common",
+    "repository": "hkhor/android_device_asus_ctp-common",
     "target_path": "device/asus/ctp-common"
     "revision": "cm-13.0"
   }
